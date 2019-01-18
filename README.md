@@ -1,5 +1,7 @@
 # THREE.js Spinner made with GSAP and TypeScript
 
+[Demo](https://spinner.casperengelmann.com/)
+
 Original code and idea by [Tomislav Jezidžić](https://codepen.io/tjezidzic/) on Codepen [source](https://codepen.io/tjezidzic/pen/JwwxgR)
 
 I rewrote his code to TypeScript and made everything a single function `makeSpinner(rings: string[][])`.
